@@ -1,4 +1,37 @@
-# Software Testing for Swag Labs Website
+# 🛒 Swag Labs E-Commerce Website Testing Project
+
+> **An end-to-end Software Testing project carried out as part of the DEPI initiative in collaboration with ITC**
+
+![Java](https://img.shields.io/badge/Java-17-blue)
+![Selenium](https://img.shields.io/badge/Selenium-Automation-green)
+![Maven](https://img.shields.io/badge/Maven-Build-black)
+![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-brown)
+![QA](https://img.shields.io/badge/Software-Testing-red)
+
+---
+
+# 📑 Table of Contents
+
+- Project Overview
+- Project idea
+- Project Objectives
+- Testing Types
+- Technologies Used
+- Key Features
+- Project Structure
+- Automation Testing
+- Project Setup and Execution
+- Project Deliverables
+- Project Screenshots
+- Project Files Description
+- Challenges
+- Future Improvements
+- Team Members
+- Video
+- Supervisor
+- Conclusion
+
+
 
 ## Project Overview
 
@@ -28,33 +61,36 @@ and ensure that users can successfully complete their shopping journey without i
 ---
 
 ## Technologies Used
+# 🛠 Technologies Used
 
-### Programming Language
+## Documentation
 
-* Java
+- Microsoft Word
+- Microsoft Excel
 
-### Automation Framework
+## Automation
 
-* Selenium WebDriver
+- Java
+- Selenium WebDriver
+- Maven
+- IntelliJ IDEA
+- Page Object Model (POM)
 
-### Design Architecture
 
-* Page Object Model (POM)
+## Version Control
 
-### API Testing
+- Git
+- GitHub
+## Browsers Tested
 
-* Postman
+- Google Chrome
+- Firefox
+- Microsoft Edge
+## API Testing
 
-### Version Control
+- postman
 
-* Git & GitHub
-
-### Browsers Tested
-
-* Google Chrome
-* Mozilla Firefox
-* Microsoft Edge
-
+  
 ---
 
 ## Key Features
@@ -72,6 +108,64 @@ and ensure that users can successfully complete their shopping journey without i
 * Cross-Browser Testing
 
 ---
+
+# 📁 Project Structure
+
+```
+Swag-Testing-Project
+│
+├── Test Plan
+├── User Stories
+├── Test Cases
+├── Bug Reports
+├── Test Summary
+├── API Testing
+├── Mobile Testing
+├── Web Testing
+├── Automation Project
+├── Presentation
+└── README.md
+```
+---
+
+# 🤖 Automation Testing
+
+The automation framework was developed by using:
+
+- Java
+- Selenium WebDriver
+- Maven
+- Page Object Model (POM)
+- IntelliJ IDEA
+
+The automation scripts validate critical user scenarios to ensure application stability after changes.
+
+---
+
+---
+
+# 🚀 How to Run the Automation Project
+
+### Clone the repository
+
+```bash
+https://github.com/ItcProjects-R4/SHR4_SWD6_S1_PROJECT3
+```
+
+### Open the project
+
+Open the project using **IntelliJ IDEA**.
+
+### Install dependencies
+
+Maven will automatically download all required dependencies.
+
+### Execute the tests
+
+Run the desired TestNG test class or execute the test suite.
+
+---
+
 
 ## Project Setup and Execution
 
@@ -96,6 +190,29 @@ Before running the project, make sure you have:
 6. Review test execution reports.
 
 ---
+
+---
+
+# 📂 Project Deliverables
+
+The repository includes:
+
+- ✅ Test Plan
+- ✅ User Stories
+- ✅ Test Cases
+- ✅ Bug Reports
+- ✅ Test Summary Report
+- ✅ API Testing Documentation
+- ✅ Mobile Testing
+- ✅ Web Testing
+- ✅ Automation Testing Project
+- ✅ Presentation powerpoint
+- ✅ introductory video
+- ✅ presentation video
+
+
+---
+
 
 ## Project Screenshots
 
@@ -264,3 +381,28 @@ Add your project presentation/demo video link here:
 The project successfully tested the SauceDemo e-commerce website using multiple testing approaches including Manual Testing, Automation Testing, API Testing, Functional Testing, and UI Testing.
 Through structured test planning, execution, defect reporting, and automation implementation, the project ensured higher software quality, improved reliability, and enhanced user experience. 
 The experience also provided valuable practical knowledge in software testing methodologies and quality assurance processes.
+
+---
+
+
+
+# 🎓 Program
+
+**Digital Egypt Pioneers Initiative (DEPI)**
+
+In collaboration with
+
+**ITC**
+
+---
+
+## 📜 License
+
+This project was developed for as part of the **DEPI Software Testing Track**.
+
+---
+
+### ⭐⭐ Your feedback matters — starring this project helps support future improvements.
+
+
+
